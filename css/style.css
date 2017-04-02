@@ -1,0 +1,56 @@
+
+.quote-box{
+
+  border-radius:3px;
+  position:relative;
+  margin:3% auto auto auto;
+  width:450px;
+  padding:40px 50px;
+  display:table;
+  background-color:#fff;
+  
+  }
+body{
+  transition: background-color .25s ease-in-out;
+background-color:#C85A5A;
+  font-family: 'Raleway', sans-serif;
+  font-weight:400;
+  font-size:20px;
+  
+}
+div{
+ padding-bottom:15px;
+  position:relative;
+  }
+#tweet{
+  float:right;
+  
+}
+
+.button{
+  border:none;
+  border-radius:3px;
+  
+  color:white;
+  outline:none;
+  background-color:#C85A5A;
+      
+}
+.fa-twitter{
+  color:white;
+
+   
+  background-color:#C85A5A;
+  padding:5px 10px 5px 10px;
+  border-radius:3px;
+}
+.btn{
+  border:none;
+  color:white !important;
+  background-color:#C85A5A;
+}
+.btn:hover{
+    border:none;
+
+  color:white !important;
+}
